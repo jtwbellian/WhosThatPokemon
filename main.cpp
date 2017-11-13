@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  
+//
 //
 //  Created by James Bellian on 11/12/17.
 //
@@ -12,8 +12,8 @@ using namespace std;
 
 int main()
 {
-   
+
    std::cout << "Whos that Pokemon??\n";
-   std::cout << "HELLO WORLD";
+   std::cout << "HELLO Person";
    return 0;
 }
