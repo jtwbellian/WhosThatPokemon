@@ -13,6 +13,7 @@ using namespace std;
 int main()
 {
    
-   std::cout << "Whos that Pokemon??";
+   std::cout << "Whos that Pokemon??\n";
+   std::cout << "HELLO WORLD";
    return 0;
 }
